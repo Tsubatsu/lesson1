@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db6140f8-6153-435e-a64a-0d3982bbe4d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework/TestRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Arquillian_TestNG_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Arquillian_TestNG_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__com_codeborne_selenide_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_1_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/SelenideSBOF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/SelenideSBOF.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511960299066.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511960299066.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511962947452.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963016257.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963016257.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963240128.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963240128.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963545742.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963545742.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967543602.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967543602.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967615775.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967615775.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967687169.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967687169.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512025451176.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512025451176.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512025573864.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512025573864.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512026036587.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512026036587.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512028527379.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512028527379.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512028956775.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512028956775.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512029022675.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512029022675.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038106911.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038106911.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038285624.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038285624.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038907621.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038907621.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040156155.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040156155.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040273993.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040273993.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040357458.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040357458.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512126080554.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512126080554.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127091480.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127091480.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127202499.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127202499.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127222290.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127222290.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127373739.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127373739.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127514430.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127514430.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512128687062.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512128687062.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512131367398.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512131367398.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132036804.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132036804.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132452283.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132452283.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132518719.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132518719.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132662713.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132662713.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/actionsCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/actionsCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/consts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/consts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/dataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/dataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/elementsCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/elementsCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/linksKP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/linksKP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/loginCreds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/loginCreds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/CREDS/CRED2064.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/CREDS/CRED2064.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/sandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/sandbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/setCreditType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/setCreditType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/actionsCommon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/actionsCommon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/consts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/consts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/dataGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/dataGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/elementsCommon$Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/elementsCommon$Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/elementsCommon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/elementsCommon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/linksKP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/linksKP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/loginCreds$roleCreds.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/loginCreds$roleCreds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/loginCreds.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/loginCreds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/CREDS/CRED2064.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/sandbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/sandbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/setCreditType.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1539166793">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="864" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="864" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/rest/FirstTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/rest/RestTestExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/homework/TestRest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2461#2469#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>subwa</find>
+      <find>метро</find>
+      <find>Platform</find>
+      <find>headless</find>
+      <find>subway</find>
+      <find>transport</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/rest/RestTestExample.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/homework/TestRest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-132" />
+    <option name="y" value="-8" />
+    <option name="width" value="1934" />
+    <option name="height" value="1008" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540465863438" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestRest.testtest">
+    <configuration name="TestRest.findTheMetroTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework" />
+      <option name="MAIN_CLASS_NAME" value="homework.TestRest" />
+      <option name="METHOD_NAME" value="findTheMetroTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRest.findTheMetroTest (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework" />
+      <option name="MAIN_CLASS_NAME" value="homework.TestRest" />
+      <option name="METHOD_NAME" value="findTheMetroTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRest.findTheMetroTest (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework" />
+      <option name="MAIN_CLASS_NAME" value="homework.TestRest" />
+      <option name="METHOD_NAME" value="findTheMetroTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRest.findTheMetroTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework" />
+      <option name="MAIN_CLASS_NAME" value="homework.TestRest" />
+      <option name="METHOD_NAME" value="findTheMetroTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRest.testtest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework" />
+      <option name="MAIN_CLASS_NAME" value="homework.TestRest" />
+      <option name="METHOD_NAME" value="testtest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestRest.findTheMetroTest" />
+      <item itemvalue="TestNG.TestRest.findTheMetroTest (1)" />
+      <item itemvalue="TestNG.TestRest.findTheMetroTest (2)" />
+      <item itemvalue="TestNG.TestRest.findTheMetroTest (3)" />
+      <item itemvalue="TestNG.TestRest.testtest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestRest.testtest" />
+        <item itemvalue="TestNG.TestRest.findTheMetroTest (3)" />
+        <item itemvalue="TestNG.TestRest.findTheMetroTest (2)" />
+        <item itemvalue="TestNG.TestRest.findTheMetroTest (1)" />
+        <item itemvalue="TestNG.TestRest.findTheMetroTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db6140f8-6153-435e-a64a-0d3982bbe4d0" name="Default Changelist" comment="" />
+      <created>1540389747282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540389747282</updated>
+      <workItem from="1540389748521" duration="10609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestRest_findTheMetroTest - 2018.10.25 at 13h 19m 06s.xml">
+      <configuration name="TestRest.findTheMetroTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_findTheMetroTest - 2018.10.25 at 13h 19m 25s.xml">
+      <configuration name="TestRest.findTheMetroTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_findTheMetroTest - 2018.10.25 at 13h 19m 35s.xml">
+      <configuration name="TestRest.findTheMetroTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_findTheMetroTest - 2018.10.25 at 13h 27m 01s.xml">
+      <configuration name="TestRest.findTheMetroTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_findTheMetroTest - 2018.10.25 at 14h 06m 25s.xml">
+      <configuration name="TestRest.findTheMetroTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_findTheMetroTest_(1) - 2018.10.25 at 14h 06m 55s.xml">
+      <configuration name="TestRest.findTheMetroTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_findTheMetroTest_(2) - 2018.10.25 at 14h 07m 10s.xml">
+      <configuration name="TestRest.findTheMetroTest (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_findTheMetroTest_(3) - 2018.10.25 at 14h 07m 46s.xml">
+      <configuration name="TestRest.findTheMetroTest (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_testtest - 2018.10.25 at 14h 09m 41s.xml">
+      <configuration name="TestRest.testtest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRest_testtest - 2018.10.25 at 14h 10m 00s.xml">
+      <configuration name="TestRest.testtest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44637054" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/rest/FirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/rest/RestTestExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/homework/TestRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2461#2469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lesson-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.64</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
